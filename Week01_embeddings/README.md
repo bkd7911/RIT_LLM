@@ -1,7 +1,7 @@
 # Week 1
 Word embeddings.
 
-Lecture: [video 1](https://youtu.be/3VBteQrakSg)
+Lecture: [video 1](https://youtu.be/3VBteQrakSg), [video 2](https://youtu.be/9PEqC96sat8)
 
 To visualize words' embeddings in 2D and align different languages the [notes on PCA, t-SNE, and Orthogonal Procrustes Problem](https://github.com/anton-selitskiy/RIT_LLM/blob/main/Week01_embeddings/PCA_SNE_Procrustes.pdf) may be useful.
 
