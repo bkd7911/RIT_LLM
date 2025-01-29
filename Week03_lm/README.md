@@ -3,7 +3,7 @@ Word embeddings. Language Modelling
 
 Practice for Week 2: [video](https://youtu.be/Dd2hQ-cvStc)
 
-Lectures: video1, video2
+Lectures: [video1](https://youtu.be/nU0s8jHfyrM), video2
 
 
 [Presentation]() from [source](https://github.com/yandexdataschool/nlp_course/tree/2024/week03_lm)
