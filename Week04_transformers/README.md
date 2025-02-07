@@ -3,7 +3,7 @@ Seq2Seq with Attention for Translation
 
 Practice for Week 3: [video](https://youtu.be/Z_tGienK2Ek)
 
-Lectures: Seq2Seq [video1](https://youtu.be/bz2uMAwNKkE), Seq2Seq with Attention [video2]()
+Lectures: Seq2Seq [video1](https://youtu.be/bz2uMAwNKkE), Seq2Seq with Attention [video2](https://youtu.be/Jmwv_ijwt3M)
 
 Seq2Seq [notebook](./Seq2Seq.ipynb) and homework Week 4 [notebook](./HW4.ipynb)
 
