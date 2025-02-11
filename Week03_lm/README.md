@@ -8,6 +8,6 @@ Lectures: [video1](https://youtu.be/nU0s8jHfyrM), [video2](https://youtu.be/5fSG
 
 Presentation from [source](https://github.com/yandexdataschool/nlp_course/tree/2024/week03_lm)
 
-Practice Week 3 [notebook](.practice3_populated.ipynb), home work [notebook](.homework_03.ipynb) 
+Practice Week 3 [notebook](.practice3_populated.ipynb), homework [notebook](.homework_03.ipynb) 
 
 Additional reading with interactive tasks: [NLP Course For You](https://lena-voita.github.io/nlp_course.html) by Lena Voita.
