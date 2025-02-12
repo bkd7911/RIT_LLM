@@ -1,9 +1,9 @@
 # Week 5
 Seq2Seq with Attention. Transformers
 
-Practice for Week 4: [video 1](https://youtu.be/S_6wKwyBPlo)
+Practice for Week 4: [video 1](https://youtu.be/S_6wKwyBPlo), [video 2](https://youtu.be/3wy6pjEW7rA)
 
-Lectures: TBA
+Lecture on Transformer: video
 
 
 
