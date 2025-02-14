@@ -3,7 +3,7 @@ Seq2Seq with Attention. Transformers
 
 Practice for Week 4: [video 1](https://youtu.be/S_6wKwyBPlo), [video 2](https://youtu.be/3wy6pjEW7rA)
 
-Lecture on Transformer: video
+Lecture on Transformer: [video](https://youtu.be/9k54--KHttw)
 
 
 
