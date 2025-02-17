@@ -1,6 +1,6 @@
 # Week 6 BERT
 
-Lecture: video 1
+Lecture: [video 1](https://youtu.be/ZW4ZNPskBnQ)
 
 Practice: notebook [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/anton-selitskiy/RIT_LLM/blob/main/Week06_bert/practice06.ipynb), video
 
