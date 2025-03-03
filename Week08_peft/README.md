@@ -1,6 +1,6 @@
 # Week 8 Parameter Efficient Fine-Tuning (PEFT)
 
-Lecture: [video 1]()
+Lecture: [video 1](https://youtu.be/AN99SqVaaYE)
 
 Practice: notebook [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/anton-selitskiy), video
 
