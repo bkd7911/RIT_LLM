@@ -6,4 +6,6 @@ Practice: [notebook](./practice_07.ipynb) [![Open in Colab](https://colab.resear
 
 Homework 6 [notebook](./homework_06.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/anton-selitskiy/RIT_LLM/blob/main/Week07_gpt/homework_06.ipynb)  due to 10/03/2025. [video](https://youtu.be/hUbspz964O4)
 
+[Prompt Engineering Guide](https://www.promptingguide.ai/)
+
 Presentation and additional links from [Yandex Data School NLP Course](https://github.com/yandexdataschool/nlp_course/tree/2024/week06_llm) 
