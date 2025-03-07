@@ -2,7 +2,7 @@
 
 Lecture: [video 1](https://youtu.be/AN99SqVaaYE)
 
-Practice: notebook [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/anton-selitskiy), video
+Practice: notebook [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/anton-selitskiy/RIT_LLM/blob/main/Week08_peft/practice_08.ipynb), video
 
 Homework 7 is due to 03/24/2025. 
 
