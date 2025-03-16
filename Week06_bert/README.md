@@ -4,7 +4,7 @@ Lecture: [video 1](https://youtu.be/ZW4ZNPskBnQ), [video 2](https://youtu.be/z8c
 
 Practice: [notebook](https://github.com/anton-selitskiy/RIT_LLM/blob/main/Week06_bert/practice06.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/anton-selitskiy/RIT_LLM/blob/main/Week06_bert/practice06.ipynb), [video](https://youtu.be/o664DzR1zWY)
 
-Homework 5 [notebook](./homework_05.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/anton-selitskiy/RIT_LLM/blob/main/Week06_bert/homework_05.ipynb) due to 03/10/2025. Related [video](https://youtu.be/_eSGWNqKeeY?si=IyrqfQGQiZkrzbB1&t=1846) on the document search with BERT. 
+Homework 5 [notebook](./homework_05.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/anton-selitskiy/RIT_LLM/blob/main/Week06_bert/homework_05.ipynb) due to 03/17/2025. Related [video](https://youtu.be/_eSGWNqKeeY?si=IyrqfQGQiZkrzbB1&t=1846) on the document search with BERT. 
 
 Huggingface [quiqk tutorial](https://huggingface.co/docs/transformers/quicktour)
 
