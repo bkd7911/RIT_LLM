@@ -2,9 +2,9 @@
 
 Lecture: [video 1](https://youtu.be/AN99SqVaaYE)
 
-Practice: notebook [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/anton-selitskiy/RIT_LLM/blob/main/Week08_peft/practice_08.ipynb), [video](https://youtu.be/wizwiKIV1gg)
+Practice: [notebook](./practice_08.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/anton-selitskiy/RIT_LLM/blob/main/Week08_peft/practice_08.ipynb), [video](https://youtu.be/wizwiKIV1gg)
 
-Homework 7 is due to 03/31/2025. 
+[Homework 7](./homework_07.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/anton-selitskiy/RIT_LLM/blob/main/Week08_peft/homework_07.ipynb) is due to 03/31/2025. 
 
 Ideas for the project: https://github.com/yandexdataschool/nlp_course/blob/2023/week07_peft/practice.ipynb
 
