@@ -1,5 +1,5 @@
 # Week 10 Quantization
-Lecture: video 1
+Lecture: [video 1](https://youtu.be/kEybI9X2p9w), video 2
 
 Practice: notebook, video
 
