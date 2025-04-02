@@ -4,6 +4,8 @@ Lecture: [video 1](https://youtu.be/9m-wAzO0Quk)
 
 Practice: notebook, video
 
+Combining LLM with HF Agents [notebook](https://colab.research.google.com/github/yandexdataschool/nlp_course/blob/2024/week06_llm/demo_agents.ipynb)
+
 Project Ideas: https://github.com/yandexdataschool/nlp_course/tree/2023/week_extra/retrieval
 
 Homework 10 is due to 04/28/2025. 
