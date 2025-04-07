@@ -46,11 +46,5 @@ Conversation systems. Instruction fine-tuning.
 [__week11__](./Week11_retrieval/) __Retrieval Augmented LMs__
 - Retrieval-Augmented Generation (RAG).
 
-[__week12__](./Week12_doman/) __Domain Adaptation__
-- Transfer learning and domain adaptation.
-
-[__week13__](./Week13_api/) __API__
-- Using API for LLMs. Decentralized LLMs on the example of together.ai and petals.
-
-[__week14__](./Week14_multimodal/) __Multimodal LLMs__
+[__week12__](./Week12_multimodal/) __Multimodal LLMs__
 - Image captioning and interpretation.
