@@ -6,3 +6,7 @@ Practice: [notebook](./notebook12.ipynb), video
 
 
 [Presentation](./MLLM1.pdf)
+
+[Presentation VAE](./VAE.pdf), [notebook] 
+
+[Presentation DDPM](./DDPM_present.pdf), [notebook]
