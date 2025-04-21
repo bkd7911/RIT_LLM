@@ -48,3 +48,9 @@ Conversation systems. Instruction fine-tuning.
 
 [__week12__](./Week12_multimodal/) __Multimodal LLMs__
 - Image captioning and interpretation.
+
+[__week13__](./Week13_asr/) __ASR__
+- Audio LLM
+
+[__week14__](./Week14_tts/) __Speech Generation__
+- Text-to-Speech
